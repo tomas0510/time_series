@@ -1,0 +1,16 @@
+---
+title: "Time_series"
+author: "Tomás Bustamante Hernández"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+
+
+
+```{r}
+
+
+
+```
+
